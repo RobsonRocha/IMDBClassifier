@@ -1,11 +1,11 @@
 # IMDBClassifier
 
-First project from Machine Learning Engineer Nanodegree Program Udacity course (https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009t)
+First project from [Machine Learning Engineer Nanodegree Program Udacity course](https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009t)
 
 ## Motivation
 
 This project consists in implement a Recurrent Neural Network (RNN) that is capable to predict if a text that has a good or bad opinion about a movie.
-The dataset used to train e test is based at `http://ai.stanford.edu/~amaas/data/sentiment/aclImdb_v1.tar.gz[IMDB]`.
+The dataset used to train e test is based at [IMDB](http://ai.stanford.edu/~amaas/data/sentiment/aclImdb_v1.tar.gz).
 The porpose is show how to use AWS Sagemaker features to do that.
 It contains 3 parts:
 	A notebook that explain how to trait the data, train and test, the creation of an endpoint to access the trained model;
@@ -18,7 +18,7 @@ All process to get the data file, transform it, train, test create the endpoint 
 
 ## AWS Lambda Function
 
-All process to create and deploy the code that runs in AWS Lambda Function can be find `https://docs.aws.amazon.com/lambda/latest/dg/python-handler.html[here]`.
+All process to create and deploy the code that runs in AWS Lambda Function can be find [here](https://docs.aws.amazon.com/lambda/latest/dg/python-handler.html).
 
 The source code is in predict.py.
 
