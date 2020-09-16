@@ -14,7 +14,7 @@ It contains 3 parts:
 
 ## Training and testing
 
-All process to get the data file, transform it, train, test create the endpoint and use it is explain in notebook file [IMDBClassifier.ipynb](./IMDBClassifier.ipynb)
+All process to get the data file, transform it, train, test create the endpoint and use it is explain in notebook file [IMDBAnalyser.ipynb](./IMDBAnalyser.ipynb)
 
 ## AWS Lambda Function
 
